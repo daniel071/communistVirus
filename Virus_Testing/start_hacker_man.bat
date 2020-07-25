@@ -1,0 +1,1 @@
+start hacket_man.bat

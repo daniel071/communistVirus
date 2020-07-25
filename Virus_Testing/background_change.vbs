@@ -1,0 +1,1 @@
+x=msgbox("Our glorious leader STALIN has decided you shall be sent to GULAGG", 0+16, "gulag for u")
